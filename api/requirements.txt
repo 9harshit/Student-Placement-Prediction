@@ -1,0 +1,9 @@
+requests
+pandas
+keras==2.3.0
+flask
+numpy
+boto3
+matplotlib
+tensorflow==2.2.0rc4
+flask-cors
