@@ -10,9 +10,9 @@ Accuracy of 91 percent.
 
 # Demo
 
-![Screenshot](/demos/Screenshot 2020-05-06 at 3.40.22 PM.png?raw=true "Optional Title")
-![Screenshot](/demos/Screenshot 2020-05-06 at 8.37.18 PM.png?raw=true "Optional Title")
-![Screenshot](/demos/Screenshot 2020-05-08 at 2.32.12 AM.png?raw=true "Optional Title")
+![Screenshot](/demos/Screenshot%202020-05-06%20at%203.40.22%20PM.png "Optional Title")
+![Screenshot](/demos/Screenshot%202020-05-06%20at%208.37.18%20PM.png "Optional Title")
+![Screenshot](/demos/Screenshot%202020-05-08%20at%202.32.12%20AM.png "Optional Title")
 
 ## Setup
 
