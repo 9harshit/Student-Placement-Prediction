@@ -8,6 +8,12 @@ https://www.kaggle.com/benroshan/factors-affecting-campus-placement
 placement_status.py will predict based on their input wheter they will get placement or not in Campus recruitment.
 Accuracy of 91 percent.
 
+# Demo
+
+![Screenshot](/demos/Screenshot 2020-05-06 at 3.40.22 PM.png?raw=true "Optional Title")
+![Screenshot](/demos/Screenshot 2020-05-06 at 8.37.18 PM.png?raw=true "Optional Title")
+![Screenshot](/demos/Screenshot 2020-05-08 at 2.32.12 AM.png?raw=true "Optional Title")
+
 ## Setup
 
 To start the frontend client

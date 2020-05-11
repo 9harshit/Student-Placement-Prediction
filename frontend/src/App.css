@@ -14,7 +14,6 @@ code {
     monospace;
 }
 
-
 .form-content {
   width: 100%;
   height: min-content;
@@ -32,4 +31,46 @@ code {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+}
+
+.home {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+}
+
+.home-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10%;
+}
+.home-content--image-container {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+}
+.home-content--image {
+  display: flex;
+  flex-direction: column;
+}
+.home-content--image > img {
+  width: -moz-available;
+}
+.home-content--desc {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  margin-right: 30px;
+  margin-left: 30px;
+}
+.home-content--desc > h1 {
+  font-family: "ABeeZee", sans-serif;
+  font-size: 100px;
+  margin-bottom: 0px;
+}
+.home-content--desc > p {
+  font-size: 25px;
+  color: rgb(72, 84, 153);
 }

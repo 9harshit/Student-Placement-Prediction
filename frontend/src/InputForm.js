@@ -1,5 +1,4 @@
 import React from "react";
-
 import FormContainer from "./FormContainer";
 import TextField from "@material-ui/core/TextField";
 import Switch from "@material-ui/core/Switch";
@@ -11,6 +10,8 @@ import SubmitBtn from "./button";
 import ProgressStepper from "./ProgressStepper";
 import ResultDialog from "./result";
 import Skeleton from "@material-ui/lab/Skeleton";
+
+import anime from "animejs";
 import {
   FormControl,
   MenuItem,
@@ -109,6 +110,8 @@ class InputForm extends React.Component {
       .catch((error) => this.setState({ error, isLoading: false }));
     event.preventDefault();
   };
+
+  handleInputChange = (event, property) => {};
   handleDialogClose = () => {
     this.setState({
       isSuccess: false,
