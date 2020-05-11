@@ -5,7 +5,7 @@ This repo is a webapp which does prediction for MBA students using Artifical Neu
 Dataset is downloaded from kaggle.
 https://www.kaggle.com/benroshan/factors-affecting-campus-placement
 
-placement_status.py will predict based on their input wheter they will get placement or not in Campus recruitment.
+placement_status.py will predict based on their input wheter they will get placement or not in Campus recruitment, this python file is used to generate the api.py
 Accuracy of 91 percent.
 
 # Demo
