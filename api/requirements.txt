@@ -5,5 +5,5 @@ flask
 numpy
 boto3
 matplotlib
-tensorflow==2.2.0rc4
+tensorflow==2.6.4
 flask-cors
